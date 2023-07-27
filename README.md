@@ -21,7 +21,7 @@ Noter is a simple and intuitive notes app built with Kotlin that allows you to q
 ## Screenshots
 
 <p float="left">
-    <img alt="Loading Screen" src="https://raw.githubusercontent.com/sabinmhx/noter/master/images/screenshots/noter_loading_screen.png" width="200" height="450"/>
+    <img alt="Loading Screen" src="https://raw.githubusercontent.com/sabinmhx/noter/master/images/screenshots/noter_loading_screen.png" width="200" height="450"/>&nbsp;&nbsp;
     <img alt="Home Screen" src="https://raw.githubusercontent.com/sabinmhx/noter/master/images/screenshots/noter_home_screen.png" width="200" height="450"/>
     <img alt="Adding Screen" src="https://raw.githubusercontent.com/sabinmhx/noter/master/images/screenshots/noter_adding_screen.png" width="200" height="450"/>
     <img alt="Deleting Screen" src="https://raw.githubusercontent.com/sabinmhx/noter/master/images/screenshots/noter_deleting_screen.png" width="200" height="450"/>

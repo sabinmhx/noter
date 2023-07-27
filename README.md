@@ -34,7 +34,7 @@ To use Noter, follow these simple steps:
 1. Clone the repository:
     
       ```
-         git clone https://github.com/your-username/noter.git
+      git clone https://github.com/your-username/noter.git
       ```
 
 3. Open the project in Android Studio or your preferred Kotlin IDE.

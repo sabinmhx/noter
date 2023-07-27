@@ -8,6 +8,16 @@ Noter is a simple and intuitive notes app built with Kotlin that allows you to q
 - **Edit Notes**: Update or modify your existing notes as your thoughts evolve.
 - **Delete Notes**: Remove notes that are no longer needed or relevant.
 
+## Other Features
+1. Navigation Component
+2. DataBinding
+3. Fragments
+4. Kotlin coroutines.
+5. Room
+6. MVVM.
+7. Search View
+
+
 ## Screenshots
 
 <p float="left">

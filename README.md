@@ -2,6 +2,8 @@
 
 Noter is a simple and intuitive notes app built with Kotlin that allows you to quickly jot down your ideas, tasks, and reminders. It is designed to be lightweight, easy to use, and accessible on Android. Whether you want to capture a fleeting thought or organize your to-do list, Noter has got you covered!
 
+This is the first version of notes app built with kotlin
+
 ## Features
 
 - **Create Notes**: Easily create new notes with a title and content.
